@@ -1,12 +1,9 @@
-#d1{
-	margin-left:300px;
-}
-#d2{
-	margin-left:330px;
+body{
+	width: 600px;
+	margin: auto;
 }
 .q1{
-	border: thin;
-	border-width: 2px;
+	
     border-color: #fbfcfc;
     text-align: center;
     border-style: solid;
@@ -14,6 +11,4 @@
     padding-left: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
-    width: 700px;
-    margin-left:300px;
     }
