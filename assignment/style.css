@@ -1,0 +1,19 @@
+#d1{
+	margin-left:300px;
+}
+#d2{
+	margin-left:330px;
+}
+.q1{
+	border: thin;
+	border-width: 2px;
+    border-color: #fbfcfc;
+    text-align: center;
+    border-style: solid;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 700px;
+    margin-left:300px;
+    }
